@@ -1,1 +1,117 @@
-test
+body {
+margin : 0;
+}
+:link {color: black;
+text-decoration: none;}
+a:visited {color: black;
+text-decoration: none;}
+a:hover {color: black;
+text-decoration: none;}
+a:active {color: black;
+text-decoration: none;}
+#top {
+background-color: grey;
+width : auto;
+height: 50px;
+text-align: center;
+overflow: hidden;
+}
+.tel {
+background-color: red;
+width: 150px;
+height: 50px;
+margin-left: 200px;
+padding-top: 15px;
+float: left;
+}
+.mail {
+height: 50px;
+width: 200px;
+background-color: yellow;
+padding-top: 15px;
+float: left;
+}
+.share {
+  height: 50px;
+  width: 100px;
+  background-color: pink;
+  float: right;
+  padding: 15px;
+  margin-right: 200px;
+}
+#bottom {
+  height: 75px;
+  width: auto;
+  margin-left: auto;
+}
+.logo {
+  margin-left: 200px;
+  width: 150px;
+  height: auto;
+  padding-top: 1px;
+  text-align: center;
+  float: left;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    float: right;
+    margin: 17px;
+    margin-right: 30px;
+}
+li {
+  display: inline-block;
+  padding-left: 17px;
+}
+.jaune {
+color: yellow;
+}
+.chantier {
+  width: auto;
+  height: 500px;
+  background-image: url("chantier.jpg");
+  background-repeat: no-repeat;
+}
+.up {
+  height: 70px;
+  background-color: ;
+  width: auto;
+  padding-top: 5px;
+}
+.portf {
+  background-color: yellow;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+  text-align: center;
+  margin-left: 230px;
+  float: left;
+}
+.cost {
+  float: left;
+}
+.request {
+  width: 100px;
+  height: 50px;
+  background-color: yellow;
+  float: left;
+  border-radius: 20%;
+  padding: 5px;
+  overflow: hidden
+}
+.service {
+  height: 400px;
+  width: auto;
+  background-color: pink;
+  text-align: center;
+  padding-top: 15px;
+}
+.tserv {
+font-style: italic;
+font-size: 30px;
+
+}
+.servp {
+  font-style: italic;
+}
