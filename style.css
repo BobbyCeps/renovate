@@ -71,6 +71,7 @@ color: yellow;
   height: 500px;
   background-image: url("chantier.jpg");
   background-repeat: no-repeat;
+  padding-top: 100px;
 }
 .up {
   height: 70px;
@@ -103,14 +104,13 @@ color: yellow;
 .service {
   height: 600px;
   width: auto;
-  background-color: pink;
+
   text-align: center;
   padding-top: 15px;
 }
 .tserv {
 font-style: italic;
 font-size: 30px;
-
 }
 .servp {
   font-style: italic;
@@ -129,4 +129,28 @@ font-size: 30px;
   border-radius: 20%;
   margin-left: 40%;
   margin-top: 20px;
+}
+.ouvrier {
+  float: left;
+  width: 25%;
+}
+.cnt {
+  float: left;
+}
+.cntt {
+  float: right;
+  margin-right: 20px;
+}
+.buy {
+  background-color: #151515;
+  opacity: 0.7;
+  height: 220px;
+  width: 220px;
+  margin-left: 200px;
+  color: white;
+  padding: 5px;
+
+}
+hr {
+color: yellow;
 }
