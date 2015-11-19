@@ -101,7 +101,7 @@ color: yellow;
   overflow: hidden
 }
 .service {
-  height: 400px;
+  height: 600px;
   width: auto;
   background-color: pink;
   text-align: center;
@@ -114,4 +114,19 @@ font-size: 30px;
 }
 .servp {
   font-style: italic;
+}
+.article {
+  margin-top: 90px;
+  margin-left: 160px;
+  float: left;
+  background-color: grey;
+
+}
+.view {
+  background-color: yellow;
+  width: 200px;
+  height: auto;
+  border-radius: 20%;
+  margin-left: 40%;
+  margin-top: 20px;
 }
